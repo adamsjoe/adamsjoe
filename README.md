@@ -3,10 +3,10 @@
 I am a Tester from Scotland.  I've been working in IT for over 20 years.  
 Recently (well - the last 4/5 years) I've been moving into the world of automation.
 
-- 🔭 I’m currently working on nothing - no personal projects on the go just now.
-- 🌱 I’m currently learning Swift (when my mac comes back from repair!!!) / CSS / Javascript
+- 🔭 I’m currently working on my Master's in Computer Science
+- 🌱 I’m currently learning Python (for the CS Masters)
 - 📫 How to reach me: Twitter @_MEJadams
-- 😄 Pronouns: He / Him 
+- 😄 Pronouns: I am not fussed :)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsjoe)](https://github.com/anuraghazra/github-readme-stats)
