@@ -3,11 +3,12 @@
 I am a Tester from Scotland.  I've been working in IT for over 20 years.  
 Recently (well - the last 4/5 years) I've been moving into the world of automation.
 
-- 🔭 I’m currently working on my Master's in Computer Science
-- 🌱 I’m currently learning some Python, some more JavaScript, reactJS and SwiftUI.
+- 🔭 I’m currently working on my Master's in Web Technologies
+- 🌱 I’m currently learning some Python, some more JavaScript and reactJS.
 - 📫 How to reach me: Twitter @_MEJadams
 - 😄 Pronouns: I am not fussed :)
-
+- 🔭 I’m currently working on Web Applications Development uni stuff
+- 🌱 I’m currently learning react, firebase and more googly stuff..
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsjoe)](https://github.com/anuraghazra/github-readme-stats)
 
